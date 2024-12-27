@@ -2,4 +2,3 @@ Master Python!
 Play Chess
 Buy Grocery
 Clean the bag
-Play chess again
